@@ -32,12 +32,12 @@ const Login = () => {
 
                         <div className="py-4 lg:py-6">
                             <p className="text-center text-xs text-gray-600/95 lg:text-sm">
-                                Don’t have account?
+                                Don’t have account? 
                                 <Link
                                     to={'/register'}
                                     className="text-white transition-all hover:text-lwsGreen hover:underline"
                                     href="/registration.html"
-                                >Create New</Link>
+                                > Create New</Link>
                             </p>
                         </div>
                     </div>
